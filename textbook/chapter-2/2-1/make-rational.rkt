@@ -1,6 +1,7 @@
 #lang racket
 (provide make-rat numer denom print-rat)
 
+; Exercise 2.1
 ; Procedures for defining a rational number using a numerator
 ; and a denominator, simplifying the fraction if there is a
 ; common denominator and normalising the signs if required.
